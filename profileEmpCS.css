@@ -1,0 +1,110 @@
+
+@import url('https://fonts.googleapis.com/css?family=Merienda|Montserrat&display=swap');
+/** from google fonts : https://fonts.google.com/selection?selection.family=Montserrat**/
+
+
+
+
+.row{
+	height: 600px;
+	background-color: #e3eaf7;
+	width: 700px;
+	margin-left: 300px;
+
+}
+
+.pic_base{
+	height: 30%;
+	background-color: #c3d5f7;
+	background-image: url(blur-background1.jpg);
+	background-size: cover;
+}
+#profilePic{
+	border-radius: 100%;
+	border: 2px  solid black;
+	box-shadow: 0 2px 2px black;
+	box-sizing: border-box;
+	position: absolute;
+	margin-top: 110px;
+	margin-left: 20px;
+}
+#tital{
+	position: absolute;
+	font-family:verdana;
+	margin-left: 380px;
+	margin-top: 10px;
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+    font-family: 'Merienda', cursive; /* from google font*/
+
+}
+#profession{
+	position: absolute;
+	margin-left: 410px;
+	margin-top: 60px;
+	font-size: 20px;
+
+}
+.conent_base h3{
+	padding-top: 120px;
+	padding-left: 10px;
+	
+}
+
+.conent_base strong{
+	padding-top: 120px;
+	padding-left: 10px;
+
+}
+.social{
+	list-style: none;
+	position: absolute;
+	bottom: 200px;
+
+}
+.social li{
+	display: initial;
+	padding: 20px;
+	padding-left: 130px;
+	align-items: center;
+
+
+}
+.social li a {
+	color: blue;
+}
+.social li a:hover{
+	color: green;
+}
+
+#edit{
+	color: white;
+	margin-left: 10px;
+	margin-top: 10px;
+	
+	
+}
+
+.icon_base{
+	background-color: #9f6eef;
+	height: 50px;
+	width: 50px;
+	color: white;
+	position: absolute;
+	margin-left: 620px;
+	margin-top:166px; 
+	padding: 2px;
+	align-items: center;
+	border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
